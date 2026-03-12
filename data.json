@@ -1,52 +1,51 @@
 {
-  "edition_date": "12 Mars 2026",
-  "intro": "Si vous avez passé la semaine en mode avion, l'algorithme a fini de pivoter : Instagram ne distribue plus votre contenu à vos fans, mais à ceux qui ne vous connaissent pas encore. Cette semaine, le consensus des experts est clair : la fin du contenu 'esthétique' inutile au profit de la 'psychologie de l'arrêt du pouce'. On décrypte comment hacker l'attention froide.",
+  "week_summary": "Cette semaine, les experts s'accordent sur un point : la quantité ne remplace plus la précision algorithmique. On observe un pivot majeur vers des stratégies de 'Niche Down' pour l'IA et une optimisation chirurgicale du 'Watch Time' via des hooks visuels disruptifs.",
   "topics": [
     {
-      "title": "La fin du 'Pretty Feed' : place au contraste de rupture",
-      "description": "Le contenu trop léché est désormais invisible car il ressemble à une publicité. Les experts recommandent de 'salir' ses visuels pour recréer de l'authenticité et stopper le scroll machinal.",
+      "title": "Le 'Pattern Interrupt' : L'art de stopper le scroll",
+      "description": "L'attention est la monnaie la plus chère du web. Les créateurs recommandent de casser les codes visuels habituels pour forcer l'utilisateur à s'arrêter sur une frame précise.",
       "posts_related": [
-        {
-          "account": "@social.unicorns",
-          "date": "10 Mars 2026",
-          "post_url": "https://www.instagram.com/p/C4Xexample1",
-          "summary": "Analyse de la tendance 'Lo-Fi' : pourquoi les captures d'écran de notes ou les fonds texturés performent mieux que les designs Canva classiques.",
-          "concept": "Authenticité brute vs Design poli",
-          "takeaway": "L'utilisateur doit avoir l'impression de voir le post d'un ami, pas d'une marque."
-        },
         {
           "account": "@_socialsam_",
-          "date": "09 Mars 2026",
-          "post_url": "https://www.instagram.com/p/C4Xexample2",
-          "summary": "Le concept de 'Physical Hook' : intégrer un mouvement inattendu ou un objet hors contexte dans la première seconde du Reel.",
-          "concept": "Rupture de pattern visuel",
-          "takeaway": "Si l'œil n'est pas surpris en 400ms, l'esprit ne lira jamais votre texte."
-        }
-      ],
-      "expert_takeaway": "Arrêtez de chercher la perfection graphique. Testez le format 'Tweet-style' ou les vidéos filmées à l'épaule sans stabilisateur. Plus c'est 'brut', plus ça génère de confiance (et de clics)."
-    },
-    {
-      "title": "Ingénierie de la rétention : captiver avant de convertir",
-      "description": "Instagram a remplacé le nombre d'abonnés par le 'temps de consommation' comme métrique de valeur. On passe d'une logique de diffusion à une logique d'immersion.",
-      "posts_related": [
-        {
-          "account": "@thekatelynrhoades",
-          "date": "11 Mars 2026",
-          "post_url": "https://www.instagram.com/p/C4Xexample3",
-          "summary": "Le framework de la 'curiosité progressive' dans les carrousels : ne jamais donner la réponse avant la slide 5.",
-          "concept": "Dwell Time Engineering",
-          "takeaway": "Utilisez chaque slide pour 'teaser' la suivante plutôt que de donner l'info en bloc."
+          "date": "10 Mars 2026",
+          "post_url": "https://www.instagram.com/p/example1",
+          "summary": "Analyse de la première seconde d'un Reel : l'importance du mouvement de caméra inattendu.",
+          "concept": "Visual Hook",
+          "takeaway": "Ne commencez pas par un plan fixe. Utilisez un zoom brusque ou un changement d'angle dès la milliseconde 0."
         },
         {
           "account": "@holler.academy",
           "date": "08 Mars 2026",
-          "post_url": "https://www.instagram.com/p/C4Xexample4",
-          "summary": "La technique de la boucle infinie : synchroniser l'audio et le visuel pour que la fin du Reel soit le début de l'histoire.",
-          "concept": "Seamless Loop Mastery",
-          "takeaway": "Une vidéo vue 1.5 fois par la même personne est le signal le plus fort pour l'algorithme Explore."
+          "post_url": "https://www.instagram.com/p/example2",
+          "summary": "Utilisation de textes asymétriques pour déstabiliser l'œil et forcer la lecture.",
+          "concept": "Graphic Disruption",
+          "takeaway": "Le texte parfaitement centré est devenu invisible. Décalez vos titres."
         }
       ],
-      "expert_takeaway": "Le succès d'un post se joue sur sa capacité à garder l'utilisateur immobile. Structurez vos carrousels comme un mini-scénario et vos Reels comme des boucles hypnotiques."
+      "expert_takeaway": "Pour maximiser votre retention, votre 'Hook' ne doit pas seulement être textuel mais structurel. Si le flux visuel est trop fluide, l'utilisateur slide par réflexe. Créez des micro-chocs visuels."
+    },
+    {
+      "title": "La fin du contenu 'Généraliste' face à l'IA",
+      "description": "Avec l'explosion de l'IA, le contenu moyen est partout. La survie des créateurs passe par une hyper-spécialisation et une incarnation forte.",
+      "posts_related": [
+        {
+          "account": "@social.unicorns",
+          "date": "11 Mars 2026",
+          "post_url": "https://www.instagram.com/p/example3",
+          "summary": "Pourquoi les tutoriels basiques ne génèrent plus d'abonnés qualifiés.",
+          "concept": "Authority Building",
+          "takeaway": "L'IA peut donner des faits, mais elle ne peut pas partager des études de cas réelles. Documentez, n'enseignez pas seulement."
+        },
+        {
+          "account": "@thekatelynrhoades",
+          "date": "09 Mars 2026",
+          "post_url": "https://www.instagram.com/p/example4",
+          "summary": "La stratégie du 'Face-to-Cam' pour humaniser une marque B2B.",
+          "concept": "Personal Branding",
+          "takeaway": "Les gens achètent à des gens. Montrez les coulisses des décisions, pas juste le produit fini."
+        }
+      ],
+      "expert_takeaway": "Le SEO sur Instagram privilégie désormais la pertinence de niche. Plus vous êtes spécifique dans votre storytelling, plus l'algorithme identifiera précisément votre audience idéale."
     }
   ]
 }
