@@ -1,0 +1,52 @@
+{
+  "edition_date": "12 Mars 2026",
+  "intro": "Si vous avez passé la semaine dans une grotte, l'algorithme a fini sa mutation : on ne crée plus pour ses abonnés, mais pour des audiences froides. Cette semaine, les experts insistent sur la 'psychologie du scroll', l'importance des Hooks visuels et la fin de l'ère du contenu purement esthétique au profit du contenu utilitaire.",
+  "topics": [
+    {
+      "title": "La Science du 'Pattern Interruption'",
+      "description": "Les créateurs s'accordent sur un point : l'attention se gagne dans les 1.5 premières secondes. Il ne s'agit plus de faire du 'beau', mais de casser le mouvement de scroll par un élément visuel ou textuel inattendu.",
+      "posts_related": [
+        {
+          "account": "@social.unicorns",
+          "date": "10 Mars 2026",
+          "post_url": "https://www.instagram.com/p/C4Xexample1",
+          "summary": "L'utilisation de fonds texturés et de polices 'brutes' pour stopper le scroll.",
+          "concept": "Visual Contrast Strategy",
+          "takeaway": "L'esthétique trop léchée est désormais ignorée car elle ressemble à de la publicité."
+        },
+        {
+          "account": "@_socialsam_",
+          "date": "09 Mars 2026",
+          "post_url": "https://www.instagram.com/p/C4Xexample2",
+          "summary": "Pourquoi votre première frame de Reel doit contenir un mouvement brusque.",
+          "concept": "Physical Hook",
+          "takeaway": "Le mouvement physique capte l'œil reptilien avant même que le cerveau ne lise le texte."
+        }
+      ],
+      "expert_takeaway": "Pour appliquer cela : testez le 'Green Screen' sur des tweets ou changez de décor toutes les 2 secondes dans vos vidéos. L'œil ne doit jamais s'habituer."
+    },
+    {
+      "title": "La Rétention est le nouveau SEO",
+      "description": "Instagram privilégie désormais les contenus qui gardent l'utilisateur sur la plateforme. Le temps de lecture d'un carrousel ou le re-visionnage d'un Reel sont les metrics reines.",
+      "posts_related": [
+        {
+          "account": "@thekatelynrhoades",
+          "date": "11 Mars 2026",
+          "post_url": "https://www.instagram.com/p/C4Xexample3",
+          "summary": "Le framework de carrousel en 7 slides pour maximiser le Dwell Time.",
+          "concept": "Binge-ability Framework",
+          "takeaway": "Chaque slide doit poser une question dont la réponse est sur la suivante."
+        },
+        {
+          "account": "@holler.academy",
+          "date": "08 Mars 2026",
+          "post_url": "https://www.instagram.com/p/C4Xexample4",
+          "summary": "L'analyse des boucles parfaites (Seamless Loops) pour doubler ses vues.",
+          "concept": "Infinite Loop Tech",
+          "takeaway": "Si la fin du Reel se connecte au début, l'algorithme compte deux vues au lieu d'une."
+        }
+      ],
+      "expert_takeaway": "Concentrez-vous sur le 'Dwell Time'. Plus un utilisateur passe de temps sur votre post, plus Instagram le montrera à des non-abonnés."
+    }
+  ]
+}
